@@ -1,2 +1,2 @@
 # Deep-Learning
-Deep Learning Practice
+Most of the projects are implemented using TensorFlow and Python3.
