@@ -6,7 +6,10 @@ http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset
 </p>
 
 <p>
-<li>The GTSRB_Data.zip file includes training and test datasets.</li>
+<li>Download GTSRB_Final_Test_Images.zip and GTSRB_Final_Training_Images.zip files below
+  <li>https://sid.erda.dk/public/archives/daaeac0d7ce1152aea9b61d9f1e19370/published-archive.html</li>
+</li>
+
 <li>The [GTSRB] Traffic Sign Classification Using Convelutional Neural Network - TensorFlow.ipynb includes source code of CNN model</li>
 </p>
 
